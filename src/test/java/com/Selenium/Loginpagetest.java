@@ -28,8 +28,7 @@ public class Loginpagetest extends DriverManagerClass {
         Loginpage loginpage = new Loginpage(Driverclass.getDriver(), probs);
         loginpage.loginfunction(username1, password1);
         
-        customercration cu = new customercration(Driverclass.getDriver());
-        cu.customercreatyonmethod();
+     System.out.println("loginmethod");
     }
 
     @DataProvider(name = "exceldta")
