@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","15051","customercreationtest","Default suite","2026-09-23","broken","2026-09-23","com.Selenium.Loginpagetest","Default test","com.Selenium.Loginpagetest","customercreationtest"
+"","12222","logintestfunction","Default suite","2026-09-23","broken","2026-09-23","com.Selenium.Loginpagetest","Default test","com.Selenium.Loginpagetest","logintestfunction"
+"","5","logintestfunction","Default suite","2026-09-23","broken","2026-09-23","com.Selenium.Loginpagetest","Default test","com.Selenium.Loginpagetest","logintestfunction"
